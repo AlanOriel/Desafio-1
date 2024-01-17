@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container-flui{
+    justify-content: center; 
+    margin: 2rem;
+    padding: 100px;
+}
+
+.mi_imagen{
+    border-radius: 99px;
+    width:auto;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.texto_1{
+background-color: rgb(60, 111, 168);
+}
+
+.primera_caja {
+    justify-content: center;
+}
+
+
+button
+{
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+footer
+{
+    background-color: rgb(60, 111, 168);
+    padding-top: 20px; 
+    padding-bottom: 20px
+}
